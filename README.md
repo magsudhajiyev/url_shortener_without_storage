@@ -8,7 +8,6 @@ A simple PHP-based URL shortener that works without external database storage.
 - Cross-browser compatibility using temporary file storage
 - 1-hour expiration for shortened URLs
 - Session-based management
-- Copy to clipboard functionality
 
 ## How to Run
 
